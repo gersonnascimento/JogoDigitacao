@@ -1,0 +1,28 @@
+.frase{
+	font-size:20px;
+	text-align: left;
+
+}
+
+.campoTexto{
+	font-size: 20px;
+}
+
+.campo-desativado{
+	background-color: lightgray;
+}
+
+.campo-ativo{
+	background-color: white;
+}
+
+.campoCorreto{
+	border: 3px solid green;
+}
+
+.campoErrado{
+	border: 3px solid red;
+}
+.campoNeutro{
+	border: 3px solid black;
+}
